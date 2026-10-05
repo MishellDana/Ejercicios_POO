@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Prueba\Ahorro\obj\Debug\Ahorro.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Prueba\Ahorro\obj\Debug\Ahorro.Form1.resources
+C:\Users\Admin\Desktop\Prueba\Ahorro\obj\Debug\Ahorro.Resources.resources
+C:\Users\Admin\Desktop\Prueba\Ahorro\obj\Debug\Ahorro.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Prueba\Ahorro\obj\Debug\Ahorro.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Prueba\Ahorro\bin\Debug\Ahorro.exe.config
+C:\Users\Admin\Desktop\Prueba\Ahorro\bin\Debug\Ahorro.exe
+C:\Users\Admin\Desktop\Prueba\Ahorro\bin\Debug\Ahorro.pdb
+C:\Users\Admin\Desktop\Prueba\Ahorro\bin\Debug\Ahorro.xml
+C:\Users\Admin\Desktop\Prueba\Ahorro\obj\Debug\Ahorro.exe
+C:\Users\Admin\Desktop\Prueba\Ahorro\obj\Debug\Ahorro.xml
+C:\Users\Admin\Desktop\Prueba\Ahorro\obj\Debug\Ahorro.pdb
